@@ -4,7 +4,7 @@ var config = require("./config");
 if (config.username && config.token) {
     var channels = [];
     for (i = 0; i < config.channels.length; i++) {
-        channels.push("#" + "Pepo3393Live");
+        channels.push("#" + config.channels[i]);
     };
 
     var options = {
