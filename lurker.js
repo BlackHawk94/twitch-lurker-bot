@@ -1,7 +1,7 @@
 var tmi = require("tmi.js");
 var config = require("./config");
 
-if (config.username && config.token) {
+if (config.username && config.token && config.channels) {
     var channels = [];
     for (i = 0; i < config.channels.length; i++) {
         channels.push("#" + config.channels[i]);
