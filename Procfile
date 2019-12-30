@@ -1,1 +1,1 @@
-worker: lurker.js
+worker: node lurker.js
