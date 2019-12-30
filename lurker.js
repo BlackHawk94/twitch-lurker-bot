@@ -1,10 +1,10 @@
 var tmi = require("tmi.js");
 var config = require("./config");
 
-if (config.username && config.token && config.channels) {
+if (config.username && config.token) {
     var channels = [];
     for (i = 0; i < config.channels.length; i++) {
-        channels.push("#" + config.channels[i]);
+        channels.push("#" + "Pepo3393Live");
     };
 
     var options = {
