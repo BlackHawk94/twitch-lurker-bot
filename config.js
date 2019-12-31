@@ -5,12 +5,11 @@ module.exports = {
         "pepo3393live",
         "bnicot",
         "celletto91",
-        "copykat_",
-        "limitlessh",
-        "lady_ally",
+        "manuelitotv",
         "gracesvringhi",
-        "the_foox",
-        "genesis_channel",
-        "giuseppe88"
+        "giuseppe88",
+        "godener7",
+        "iracle_",
+        "rinaldi00_official"
     ]
 }
