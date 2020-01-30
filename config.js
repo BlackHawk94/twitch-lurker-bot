@@ -15,6 +15,7 @@ module.exports = {
         "alisprayer",
         "migliaccin",
         "copycat_",
+        "cappellaio_matto",
         "superimen"
     ]
 }
