@@ -16,6 +16,21 @@ module.exports = {
         "migliaccin",
         "copycat_",
         "cappellaio_matto",
+        "soreasybrusche",
+        "homyatol",
+        "iamjump_",
+        "howimetyourcat",
+        "migliaccin",
+        "bicky01",
+        "pio3d",
+        "caku21",
+        "il_lambo",
+        "lady_ally",
+        "riomasterr",
+        "iosonogrut",
+        "doesntmatterprod",
+        "alienh",
+        "pendry",
         "superimen"
     ]
 }
